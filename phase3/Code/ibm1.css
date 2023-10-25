@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    }
+    header {
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPXZPnLQMeGBR7jH_qPY9Q8yNvlfsxZo0z3TbjHkzlk-VUNESfHox4LaHFwAq3S_wLFuA&usqp=CAU");
+    height:120px;
+    background-size: cover;
+    color: #fff;
+    margin:20px;
+    padding:35px;
+    }
+    nav ul {
+    list-style: none;
+    text-align: center;
+    background-color: #444;
+padding: 10px;
+}
+nav ul li {
+display: inline;
+margin: 10px;
+}
+a {
+text-decoration: none;
+color: #fff;
+}
+section {
+padding: 20px;
+margin: 20px;
+border: 1px solid #ddd;
+}
+.blog-post {
+margin: 20px;
+}
+footer {
+background-color: #333;
+color: #fff;
+text-align: center;
+padding: 10px;
+}
